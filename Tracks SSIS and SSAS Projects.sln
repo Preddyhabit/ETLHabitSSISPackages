@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MultidimensionalProject8", "MultidimensionalProject8\MultidimensionalProject8.dwproj", "{47A7F187-844D-4E78-B482-61D1D45344C8}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "TracksCubes", "Z:\Coaliance\SSIS\TracksCubes\TracksCubes.dwproj", "{7AC6B907-2AC1-4D1E-96F5-8884422C4382}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Coaliance Habit ETL Loads", "Z:\Coaliance\SSIS\Coaliance Habit ETL Loads\Coaliance Habit ETL Loads.dtproj", "{B426F9AF-956F-42D1-9BAB-9B48F8F76611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A7F187-844D-4E78-B482-61D1D45344C8}.Development|Default.ActiveCfg = Development
+		{47A7F187-844D-4E78-B482-61D1D45344C8}.Development|Default.Build.0 = Development
+		{47A7F187-844D-4E78-B482-61D1D45344C8}.Development|Default.Deploy.0 = Development
+		{7AC6B907-2AC1-4D1E-96F5-8884422C4382}.Development|Default.ActiveCfg = Development
+		{7AC6B907-2AC1-4D1E-96F5-8884422C4382}.Development|Default.Build.0 = Development
+		{7AC6B907-2AC1-4D1E-96F5-8884422C4382}.Development|Default.Deploy.0 = Development
+		{B426F9AF-956F-42D1-9BAB-9B48F8F76611}.Development|Default.ActiveCfg = Development
+		{B426F9AF-956F-42D1-9BAB-9B48F8F76611}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
